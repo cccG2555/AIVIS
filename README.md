@@ -1,6 +1,6 @@
-# basic 버전은 Ollama가 제외된 버전이며, Ollama적용 시스템 보다 속도가 빠릅니다.
+#basic 버전은 Ollama가 제외된 버전이며, Ollama적용 시스템 보다 속도가 빠릅니다.
 
-# Ollama버전은 LLM의 인식 속도가 매우 느리지만 구현 목적과 동일한 구조를 갖고 있습니다. 
+#Ollama버전은 LLM의 인식 속도가 매우 느리지만 구현 목적과 동일한 구조를 갖고 있습니다. 
 
 # 🏭 산업안전 AI 비전 모니터링 시스템 (Industrial Safety AI Vision)
 
